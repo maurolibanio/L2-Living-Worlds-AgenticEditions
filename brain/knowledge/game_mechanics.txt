@@ -1,0 +1,34 @@
+# Core Lineage 2 Interlude game mechanics
+
+[grade weapon armor ng d c b a] Weapon and armor grades: No-grade (NG, level 1+), D-grade (level 20+), C-grade (level 40+), B-grade (level 52+), A-grade (level 61+), S-grade (level 76+). Higher grade = better stats and enchant bonus.
+
+[enchant weapon armor safe] Safe enchant limits: NG/D = +3, C/B = +3, A/S = +3. After safe limit, item may be destroyed on failure unless using blessed scrolls.
+
+[soulshot spiritshot ss sps] Soulshots (SS) ƒ?" boost physical attack damage. Spiritshots (SPS) ƒ?" boost magic attack damage. Buy from Grocery/Sundries NPC in any town. Each shot costs adena and is consumed per attack.
+
+[buff healer buffer prophet overlord warcryer] Buff types: Prophets and Hierophants buff fighters (Might, Shield, Berserker Spirit). Elven Elders and Shillien Elders buff mages (Empower, Acumen, Clarity). Bishops and Cardinals heal. Overlords buff clans/alliances with CP. Warcryers/Doomcryers buff parties with melee buffs.
+
+[death penalty penalty] Dying in L2: You lose a percentage of XP needed for next level. Restore via Vitality (vitality) by staying offline or killing mobs on a higher-level character.
+
+[pvp pk karma flag] PvP mechanics: Attacking a white-name player gives you a purple PK flag for ~30 seconds. Killing a white-name player gives you karma (red name). High karma means town guards attack you on sight. PvP kills in siege or vs flagged enemies are safe.
+
+[clan academy] Clan and Academy: Join/create a clan at level 10+ (requires 10,000 adena). Academy system lets lower-level characters join and level up faster.
+
+[subclass sub] Subclass system: At level 40+ you can take on a subclass. This lets you play a second class on the same character, switching via Mammon NPCs. Subclasses share no XP but unlock noblesse at 75+ on main.
+
+[noblesse] Noblesse: Unlocked when main + 3 subclass all reach level 75+. Noblesse get special skills and access to Olympiad.
+
+[olympiad] Olympiad: PvP tournament for Noblesse players. Weapons are standardized. Win to get Olympiad points for special gear.
+
+[seven signs siege] Seven Signs: A cycle-based competition between Dawn and Dawn (Lords of Dawn / Revolutionaries of Dusk). Winners access catacombs/necropolis. Also controls castle siege schedule.
+
+[castle siege] Castle sieges: PvP events where clans fight to control castles. Castles give tax income to the owning clan.
+
+[party bonus xp share] Party system: Party members share XP. Bonus XP for larger parties up to 9 members. Closer level range = better XP share.
+
+[riding mount wyvern strider] Mounts: You can ride a wyvern (requires high-level quest) or striders (buy from shop). Dwarves can ride a wagon.
+
+[gates post gatekeeper teleport] Gatekeepers: NPCs in towns that teleport you to other areas for adena. Free teleports to hunting zones are available from Gatekeeper.
+
+[fishing] Fishing: You can fish in any water area. Requires fishing rod and shots. Sells fish for adena. Quest for free fishing shots from Fish Guild Member in Grocery stores.
+

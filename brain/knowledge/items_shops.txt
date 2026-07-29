@@ -1,0 +1,30 @@
+# Where to buy items, weapon info, etc.
+
+[soulshot spiritshot grocery nd grade] Soulshots (SS) and Spiritshots (SPS): Buy from Grocery/Sundries NPC in ANY town. D-grade shots and above are available.
+
+[weapon shop town buy] Town weapon shops sell No-grade, D-grade, and some C-grade weapons. Higher grades are crafted (by Warsmith) or dropped by monsters.
+
+[armor shop town buy] Town armor shops sell No-grade and D-grade armor. Higher grades are crafted or dropped.
+
+[ssd soulshot spirit shot d grade buy] D-grade soulshots and spiritshots: Buy from Mammon vendor in Giran Castle town market. Also from Grocery in Giran.
+
+[crystal grade ingredients] Crystals: D-grade crystal, C-grade crystal, etc. Needed for crafting and enchanting. Buy or farm from mobs.
+
+[sell adena shop trading post] You can sell items to any NPC shop for adena. Player-to-player trading happens in Giran Castle Town market, Town squares, or via private stores.
+
+[recipe crafting dwarven] Recipes: Needed to craft items. Dropped from monsters. Only Dwarves (Warsmith/Maestro) can craft items using recipes and materials.
+
+[materials crafting recipe component] Crafting components: Dropped from specific mobs. Dwarves can spoil (use Sweeper skill) to get extra drops from mobs.
+
+[potion healing mana hp mp] Healing potions and mana potions: Buy from Grocery in towns. Heals HP or restores MP. Also dropped from mobs.
+
+[scroll escape res mana] Scroll of Escape (SoE): Teleports you to nearest town. Buy from Grocery. Scroll of Resurrection (SoR): Revives dead party members. Scroll of Mana: Restores MP.
+
+[crystal scroll enchant weapon armor] Crystal Scroll: Enchant weapon scroll (increases P.Atk), Enchant armor scroll (increases P.Def). Blessed versions have no destroy risk on failed enchant.
+
+[item courier warehouse] Warehouse: Store items in any town at the Warehouse Keeper NPC. Clan Hall also has storage.
+
+[private store shop player] Player private stores: Right-click any player to see their sell shop. Set up your own by using /shop or the Private Store button.
+
+[pet summons] Pets: Can buy pet (wolf/buffalo/etc) at pet manager in towns. Summon as a companion that fights for you.
+

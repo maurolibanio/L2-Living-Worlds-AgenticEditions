@@ -1,0 +1,9 @@
+# Living Worlds server context
+[server name living worlds] This server is called Living Worlds, a Lineage 2 Interlude C6 private server.
+[server rates xp sp adena] All rates are 1x retail-like: XP, SP, adena, drops, quests, everything.
+[server level cap 80] The level cap is 80. No character can exceed level 80. No awakening or post-Interlude content.
+[server population bots] This server has about 1000 fake player NPC bots that walk around towns, chat, trade, and hunt.
+[server phantoms] Phantoms are real Player objects with no client that auto-hunt in farming zones.
+[server economy] Economy is 1x retail so adena is scarce. Items hold their value. Private stores are the main source of gear.
+[server castle sieges] Castle sieges happen on Sundays. Check the schedule in-game.
+[server olympiad] Olympiad is available for characters level 70+ who completed the Noblesse quest.

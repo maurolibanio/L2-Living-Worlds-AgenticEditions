@@ -1,0 +1,84 @@
+# Leveling zones by mob level range. Tags at front, fact after.
+
+[level 1 10 newbie starter town] Level 1-10: Hunt gremlins and mobs in your starting area (Talking Island for humans/elves, Dark Elf Village, Orc Village, Dwarven Village). Speak with Newbie Guide for free soulshots and a no-grade weapon at level 6.
+
+[level 1 10 talking island] Talking Island (level 1-10): Best for human and elf starting characters. Has gremlins, foxes, rabbits, and orcs near the village.
+
+[level 1 10 dark elf village] Dark Elf Village (level 1-10): Starting area for dark elves. Dark horrors, wraiths, red-tailed lizards.
+
+[level 1 10 orc village] Orc Village (level 1-10): Starting area for orcs. Kasha wolves, kasha bears, dire wolves.
+
+[level 1 10 dwarven village] Dwarven Village (level 1-10): Starting area for dwarves. Gremlins, stone monsters.
+
+[level 10 20 ruins despair agony] Level 10-20: Ruins of Despair (skeletons, ghosts) and Ruins of Agony (skeletons, tracker skeletons) near Gludio. Also try the Elf Village mushroom area (Spore Fungus) with the Collect Spores quest.
+
+[level 10 20 gludin windmill] Level 10-20: Gludin Village area ƒ?" Windmill Hill, Ruins of Agony. Good for early quests and XP.
+
+[level 15 20 neutral zone] Neutral Zone (level 15-20): Between Talking Island and the mainland. Wolves, orcs, goblins.
+
+[level 20 25 dion hills plains] Level 20-25: Dion area ƒ?" Plains of Dion, Ruins of Despair. Monster Eye Searcher, Skeleton mobs. Take Grim Collector quest.
+
+[level 20 30 abandoned camp partisan hideaway] Level 20-30: Abandoned Camp (near Gludio) and Partisan's Hideaway. Good for both melee and mages. Mages can train mobs with speed potion.
+
+[level 20 30 necropolis sacrifice catacomb] Level 20-30: Necropolis of Sacrifice (catacomb area). Good XP if you have clan hall buffs or a buffer friend. Take "Yoke of the Past" and "In Search of Fragments of Dimension" quests.
+
+[level 20 30 execution grounds] Execution Grounds (level 20-35): Undead zone near Dion. Great for classes with Disrupt Undead skill (healers, oracles). Take "Hunt of the Black Lion" quest from Sophya outside Warrior's Guild in Dion.
+
+[level 25 30 cruma marshlands] Cruma Marshlands (level 25-30): Near Dion. Marsh spiders, giant spiders. Good for mid-level parties.
+
+[level 28 35 fields silence] Fields of Silence (level 28-38): Near Gludio. Monsters have 50% HP, easy for mages to kill quickly. Good cost-efficient farming. Take "Black Swan" quest from guard Gosta in town.
+
+[level 30 40 catacomb heretic partisan] Level 30-40: Catacomb of the Heretic (needs buffs) or stick with Execution Grounds. Partisan's Hideaway still viable to level 35.
+
+[level 35 40 fields massacre] Fields of Massacre (level 35-45): Near Innadril. Higher level mobs, good for parties.
+
+[level 35 45 forest mirrors] Forest of Mirrors (level 35-50): Near Hunters Village. Good for mid-level parties. Medium difficulty.
+
+[level 40 52 cruma tower] Cruma Tower levels 1-2 (level 40-55): Near Dion. Famous party dungeon. Level 1 has corridor of death, level 2 has room of splendor. Great XP for parties of 5-9 players.
+
+[level 40 52 ivory tower] Ivory Tower (level 40-50): Near Gludin. Multi-level dungeon. Lower levels for level 40+, higher for level 50+. Mages do especially well here.
+
+[level 45 55 plains glory] Plains of Glory (level 45-55): Between Hunters Village and the Blazing Swamp. Good for individual and party farming.
+
+[level 50 60 dragon valley entrance] Dragon Valley entrance (level 50-60): Near Goddard. Drake spawns, high XP but dangerous. Good for parties.
+
+[level 50 60 blazing swamp] Blazing Swamp (level 55-65): Near Innadril. High XP zone, good for parties. Watch for aggro.
+
+[level 50 60 field massacre stakato nest] Fields of Massacre and Stakato Nest (level 50-65): Near Innadril. High XP for parties.
+
+[level 52 60 cruma tower 2] Cruma Tower level 2 (level 52-58): Party zone. Break room of splendor for great XP.
+
+[level 55 65 forgotten plains] Forgotten Plains (level 55-65): Near Goddard. Good hunting for solo and parties.
+
+[level 58 65 forest dead] Forest of the Dead (level 58-68): Near Innadril. Undead zone, high XP. Good for parties with healers.
+
+[level 60 70 devil isle] Devil's Isle (level 60-70): Off the coast near Rune. Access by boat quest. Great XP but dangerous.
+
+[level 60 70 lost ruins] Lost Ruins (level 60-70): Near Goddard. Good party zone.
+
+[level 60 70 dragon valley] Dragon Valley (level 60-75): Near Goddard. Famous end-game zone. Drakes, wyverns, high danger and high XP. Party recommended.
+
+[level 62 70 pagan temple] Pagan Temple (level 62-72): Near Rune. Underground dungeon. Very good XP.
+
+[level 65 72 wall argos] Wall of Argos (level 65-75): Near Goddard. End-game zone with warriors and archers.
+
+[level 65 75 varka ketra] Varka Silenos and Ketra Orc outposts (level 65-78): Near Goddard/Rune. Clan war factions. Choose one side, kill the other. Great XP for parties.
+
+[level 68 75 blazing swamp deeper] Blazing Swamp deeper areas (level 68-78): Near Innadril. High level fire mobs, good for 70+ parties.
+
+[level 70 78 catacombs necropolis] Catacombs (level 70-80): Imperial Tomb, Catacomb of the Apostate, Necropolis of the Forbidden. High XP zones.
+
+[level 70 78 tower insolence] Tower of Insolence floors 10-14 (level 70-78): Near Goddard. End-game party dungeon. Very high XP.
+
+[level 72 80 crystal caverns] Crystal Caverns (level 72-80): Near Goddard. High level dungeon.
+
+[level 75 80 antharas nest] Antharas Nest ƒ?" lair of Antharas, the Earth Wyrm. Level 75+ boss raid. End-game content.
+
+[level 75 80 zaken ship] Zaken's Party Island / Pirate Ship (level 75-80): Boss raid dungeon. High XP, good drops.
+
+[level 75 80 empire crest] Empire Crest / Imperial Tomb (level 75-80): High end catacomb. Best XP for level 78+.
+
+[level 76 80 four sepulchers] Four Sepulchers (level 76-80): End-game tomb zone. High XP.
+
+[level 78 80 forge gods] Forge of the Gods (level 78-80): Near Goddard. End-game zone with high level mobs.
+

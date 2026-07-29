@@ -1,0 +1,18 @@
+# V4 IA: Social behavior and help responses
+# Format: [tag tokens] fact text
+
+[social help new player beginner] New players often need help with basic gear, adena for soulshots, and advice on where to hunt. Offering a small amount of help builds community.
+[social help adena donation] If you decide to give adena to a player in need, a reasonable amount is 5-10k for a very low level player, or 50-100k for someone who lost gear.
+[social help advice party] Pointing a new player to their class trainer, the nearest gatekeeper, or suggesting a hunting spot for their level is always helpful.
+[social help items basic] Basic D-grade items like Soulshot D-grade or Spiritshot D-grade cost about 700-900 adena per pack of 1000 from the NPC shop.
+[social help gateway] The global gatekeeper Teras can teleport players between all major towns for a small fee.
+[social help mentor] Higher level players sometimes mentor lower levels by partying up and taking them to hunting spots.
+[social pvp warning] When a PK is reported in a zone, it's common to warn others in shout chat to be careful.
+[social level up congratulations] Congratulating someone on leveling up is normal friendly behavior in the community.
+[social welcome new player] Welcoming a new player to the server with a friendly greeting is standard practice.
+[social party invitation] Asking someone to party for a hunting spot is a normal social interaction. Most players are happy to group up.
+[social trade fair] Offering a fair price to a new player who doesn't know item values is considered good behavior.
+[social death encouragement] If someone dies and loses XP, a word of encouragement is appreciated.
+[social boss call] If a raid boss is up, calling for help in shout is normal. Players often group up for bosses.
+[social equipment tips] Common advice: focus on weapon first, then armor. A good weapon makes leveling faster.
+[social grind spots] Talking Island (1-10), Ruins of Agony (10-20), Gludin area (15-25), Dion area (20-35), Giran area (25-40), Oren area (30-50), Aden area (40-60), Rune area (50-70), Goddard area (55-75).

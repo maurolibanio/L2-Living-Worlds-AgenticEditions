@@ -1,0 +1,14 @@
+[Unit]
+Description=L2 Brain Tunnel (127.0.0.1:5000 → Alienware:5000)
+After=network.target l2-game.service
+Wants=l2-game.service
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/socat TCP-LISTEN:5000,fork,reuseaddr TCP:192.168.68.55:5000
+User=root
+Restart=on-failure
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target

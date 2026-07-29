@@ -1,0 +1,16 @@
+[Unit]
+Description=L2 Game Server
+After=network.target mariadb.service l2-login.service
+
+[Service]
+Type=simple
+WorkingDirectory=/root/l2server-runtime/game
+ExecStartPre=/bin/bash -c 'while fuser 7777/tcp 2>/dev/null; do sleep 1; done'
+ExecStart=/usr/lib/jvm/temurin-25-jdk-amd64/bin/java -server -Dfile.encoding=UTF-8 -Djava.util.logging.manager=org.l2jmobius.log.ServerLogManager -Dorg.slf4j.simpleLogger.log.com.zaxxer.hikari=warn -XX:+UseZGC -XX:SoftMaxHeapSize=4g -Xms2g -Xmx5g -XX:+AlwaysPreTouch -jar /root/l2server-runtime/libs/GameServer.jar
+Restart=on-failure
+RestartSec=15
+User=root
+LimitNOFILE=65536
+
+[Install]
+WantedBy=multi-user.target

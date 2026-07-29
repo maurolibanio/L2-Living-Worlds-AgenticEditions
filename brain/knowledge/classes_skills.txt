@@ -1,0 +1,26 @@
+# L2 Interlude class progression and basic info
+
+[class transfer first second third] Class transfers: 1st at level 20 (choose subclass), 2nd at level 40 (main class), 3rd at level 76 (final class). All classes have 3 tiers.
+
+[human class fighter warrior warlord gladiator] Human fighters: Warrior can become Warlord (polearm, AOE damage) or Gladiator (dual swords, single target DPS). Knight can become Paladin (tank) or Dark Avenger (pet damage). Rogue becomes Treasure Hunter (dagger) or Hawkeye (archer).
+
+[human mystic wizard sorcerer necromancer warlock] Human mystics: Wizard can become Sorcerer (AOE magic), Necromancer (debuffs + summon), or Warlock (summoner). Cleric can become Bishop (healer) or Prophet (buffer).
+
+[elf fighter knight temple swordsinger] Elf fighters: Knight can become Temple Knight (tank with cubic) or Swordsinger (song buffer). Scout can become Plains Walker (dagger) or Silver Ranger (archer).
+
+[elf mystic wizard spellsinger elemental summoner] Elf mystics: Wizard can become Spellsinger (high cast-speed magic) or Elemental Summoner (summoner). Oracle can become Elven Elder (recharger/support) or Eva's Saint (buffer/healer).
+
+[dark elf fighter knight shillen blade dancer] Dark Elf fighters: Knight becomes Shillen Knight (tank) or Blade Dancer (dance buffer). Assassin becomes Abyss Walker (high damage dagger) or Phantom Ranger (damage archer).
+
+[dark elf mystic wizard spellhowler phantom summoner] Dark Elf mystics: Wizard becomes Spellhowler (dark magic DPS) or Phantom Summoner (summoner). Oracle becomes Shillen Elder (recharger/buffer).
+
+[orc fighter raider destroyer monk tyrant] Orc fighters: Raider becomes Destroyer (two-handed, highest PVE damage) or Titan. Monk becomes Tyrant (fist weapon, attack speed).
+
+[orc mystic shaman overlord warcryer] Orc mystics: Shaman becomes Overlord (clan buffer, CP buffs) or Warcryer (party buffer, party summon).
+
+[dwarf artisan warsmith scavenger bounty hunter] Dwarves: Artisan becomes Warsmith (item crafter). Scavenger becomes Bounty Hunter (spoiler). Both roles are critical for end-game economy.
+
+[skill trainer npc buy spells] Skills are learned from class-specific skill trainers in main towns. After level 40, skills require spellbooks dropped from monsters.
+
+[spellbook skill] Spellbooks: Required to learn skills at level 20, 40, and above. Buy from Temple/Church NPC for early ones, later ones drop from mobs around the world.
+

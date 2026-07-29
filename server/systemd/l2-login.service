@@ -1,0 +1,14 @@
+[Unit]
+Description=L2 Login Server
+After=network.target mariadb.service
+
+[Service]
+Type=simple
+WorkingDirectory=/root/l2server-runtime/login
+ExecStart=/usr/lib/jvm/temurin-25-jdk-amd64/bin/java -DConfigPath=./config -jar /root/l2server-runtime/libs/LoginServer.jar
+User=root
+Restart=on-failure
+RestartSec=10
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+*.log
+.env
+memory/
+*.jar
+*.zip
+*.tar.gz

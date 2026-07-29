@@ -1,0 +1,59 @@
+# V3 E3+E4: Shout message templates for ambient bot chat
+# The brain picks from these templates and fills in [zone], [boss], etc.
+# based on context.
+
+# --- Boss reactions ---
+Ouvi dizer que [boss] apareceu em [zone]! Quem vai encarar?
+[boss] t«≠ vivo! Algu«∏m organiza uma party?
+Mataram o [boss] essa semana? Ouvi uns gritos l«≠ de [zone]
+Seria loucura tentar [boss] solo... mas tentar «∏ gratis
+
+# --- Castle reactions ---
+Ouvi que [castle] mudou de dono m«¶s passado. Quem t«≠ no controle agora?
+[castle] t«≠ com taxas baixas essa semana, bom pra negociar
+Quem derrotou o [castle] na «ßltima guerra? Deve ter sido «∏pico
+
+# --- PvP reactions ---
+Vi um PvP foda perto de [zone] agora pouco! Sangue pra todo lado
+Algu«∏m morreu pra PK em [zone]? Cuidado por l«≠
+PK em [zone]! Vai de party se for pra l«≠
+
+# --- Level / Quest tips ---
+Level [level] finalmente! Pr«¸ximo passo: [zone]
+Essa quest do [zone] «∏ chata mas vale a XP
+Algu«∏m tem dica pra quest de [zone]? T«Ô preso
+Farm em [zone] «∏ bom, mas leva um tempo at«∏ upar
+
+# --- Party / LFG ---
+LFM [zone]! Preciso de mais 3 pra party. Algu«∏m anima?
+LFG [zone]! Sou [class], lvl [level]. Algu«∏m precisa?
+Party pra [zone] faltando 2. Quem vem?
+[class] lvl [level] procurando grupo pra [zone]. Healer dispon«vel
+Algu«∏m quer ir pra [zone]? T«Ô sozinho e preciso de ajuda
+LFM [zone] É?" temos tank e healer, falta DPS. Vamo!
+Recrutando pra [zone]! Party nova, todos os n«veis bem-vindos
+[class] lvl [level] tank, procurando healer pra [zone]
+Preciso de 1 healer pra [zone]. Party quase fechada
+Algum healer livre pra [zone]? A party agradece
+
+# --- Social reactions ---
+[player]? Conhe«ıo! Baita guerreiro, sempre vejo ele por aqui
+E a« [player], bora party mais tarde?
+[player] me salvou outro dia de um mob, devo uma
+Algu«∏m viu o [player] hoje? T«Ô devendo um item pra ele
+
+# --- Bot-to-bot banter ---
+[botname] falou que vai tentar [zone] hoje. Coragem!
+Encontrei o [botname] em [zone] e quase morri. Obrigado [botname]!
+[botname] e [botname] t«úo fazendo party em [zone]. Queria ir
+O [botname] upou! Parab«∏ns pra ele
+
+# --- Items / Economy ---
+Algu«∏m tem [item] sobrando? T«Ô precisando e n«úo acho na loja
+[item] t«≠ caro em [town]... melhor comprar em [town2]
+Acabei de craftar um [item]! Quem quiser, t«Ô vendendo
+
+# --- Weather / Environment ---
+Que dia lindo em [town]! Queria estar ca«ıando mas t«Ô vendendo
+A noite em [town] «∏ t«úo tranquila... at«∏ um monstro aparecer
+T«≠ chovendo em [town]... bom dia pra ficar na taverna
