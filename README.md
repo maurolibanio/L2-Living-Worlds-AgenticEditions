@@ -7,40 +7,18 @@
 ## What we did (or tried)
 
 ### L2 Control Panel
-Web admin panel to manage the server without touching the terminal. Toggle features, adjust counts, save and restart the GameServer in one click. Flask + vanilla JS, dark mode, responsive.
+Web admin panel to manage the server without touching the code. Toggle features, add or remove NPCs as Global Gatekeeper, GM Shop, Buffer, adjust rates, save and restart the GameServer in one click.
 
-### AI Chat for Fake Players
-Bots that talk to players via Ollama or DeepSeek. Each bot knows its level, class, race, gear, zone, party members, nearby mobs, HP/MP, and adena. Context is sent as JSON POST to a Python bridge.
+### Context for Fake Players and Phantom
+Bots that talk to players. Each bot knows where they are, its level, class, race, gear, zone, party members, nearby mobs, HP/MP, and adena. Context is sent as JSON POST to a Python bridge.
 
 ### Knowledge Base
-2559 tagged facts (zones, items, buffs, classes, mobs, teleports) that ground the LLM responses so bots don't hallucinate locations or items. Indexed by word for O(1) lookup.
+2559 tagged facts (zones, items, buffs, classes, mobs, teleports) that ground the LLM responses so bots don't hallucinate locations or items. Indexed by word for O(1) lookup. So you can use fake players or phantom to ask questions, where to level, where to buy something, where to get a quest... etc.
 
 ### Bot Personalities
-Each bot has a unique voice derived from its name — tone, casing style, filler habits, and spelling. No two bots sound the same.
+Each bot has a unique personality derived from its race and class — tone, casing style, filler habits, and spelling. No two bots sound the same.
 
-### Smart Spawn
-Phantoms only spawn when a real player is nearby. 30-second grace period before despawning. Built on top of L2J's existing PhantomManager.
-
-### Chat Optimizations
-- Rate limiting (45s cooldown per bot, per-bot lock)
-- Response cache (LRU 200 entries)
-- Global dedup (30s window)
-- 95% skip on ambient chatter
-- 30% reply chance on /say
-- Bot-to-bot banter disabled
-- Batch memory writes (every 30s, not per interaction)
-- ZONEUPDATE on teleport (no tick loop)
-
-### Java Optimizations
-- resolveBot() cache (avoids O(n) world scan)
-- BRAIN_URL configurable via FakePlayers.ini
-- ZoneNames.ini + ZoneManager for real zone names
-- Teleport hook for silent context updates
-
-### Infrastructure
-- 5 systemd services (game, login, admin, bridge, brain)
-- socat tunnel for forwarding brain requests to a separate LLM host
-- L2Admin scripts for start/stop
+### And other stuff here and there..
 
 ---
 
