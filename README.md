@@ -1,6 +1,6 @@
 # L2 Living Worlds — Agentic Edition
 
-> **Disclaimer:** This fork is an experimental lab built with AI agents. It is not recommended for production use. The main goal is to test ideas for the original L2J Mobius project and/or serve as inspiration. Nothing here should be used out of the box without thorough review.
+> **Disclaimer:** This fork is an experimental lab built with AI agents. It is not recommended for production use. The main goal is to test ideas for the original L2 Living Worlds project and/or serve as inspiration. Nothing here should be used out of the box without thorough review.
 
 ---
 
